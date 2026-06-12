@@ -1,4 +1,4 @@
-# C-HVGSA: Constrained Hypervolume-based Gradient Subspace Approximation
+# C-HVGSA: Constrained Hypervolume Gradient Subspace Approximation
 
 Source code for the paper:
 
