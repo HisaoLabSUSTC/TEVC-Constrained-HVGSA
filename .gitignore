@@ -1,0 +1,16 @@
+# IDE / tool directories
+/.claude/
+/.vscode/
+
+# Run-time generated data (regenerable; reference PFs themselves are tracked)
+/PlatEMO/Info/InitialPopulation/
+/PlatEMO/Info/ReferencePF/TempRuns/
+
+# General file patterns
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.asv
+*.svg
+nul

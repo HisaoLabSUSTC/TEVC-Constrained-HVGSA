@@ -1,0 +1,20 @@
+Data/
+CVData/
+HVData/
+NHVData/
+AUCData/
+ExportedPlots/
+Tentative/
+/Visualization/images
+/Visualization/critdd
+/EqCo6/
+/Local Search from Angel/
+*.gif
+*.asv
+*.xlsx
+*.docx
+*.pdf
+*.py
+*.mat
+!Info/ReferencePF/*.mat
+*.tex
