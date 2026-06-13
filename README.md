@@ -130,7 +130,7 @@ Notes:
 
 ```bibtex
 @article{zhang2026chvgsa,
-  author  = {Zhang, Kenneth M. and others},
+  author  = {Zhang, Kenneth M. and Rodriguez-Fernandez, Angel E. and Shang, Ke and Ishibuchi, Hisao and Sch\"{u}tze, Oliver},
   title   = {Rapidly Handling Constrained Multi-objective Optimization Problems
              with Hypervolume Gradient Subspace Approximation},
   journal = {IEEE Transactions on Evolutionary Computation},
