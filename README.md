@@ -2,7 +2,7 @@
 
 Source code for the paper:
 
-> Kenneth M. Zhang et al., **"Rapidly Handling Constrained Multi-objective Optimization Problems with Hypervolume Gradient Subspace Approximation,"** *IEEE Transactions on Evolutionary Computation*, accepted, 2026.
+> K. Zhang, A. E. Rodriguez-Fernandez, K. Shang, H. Ishibuchi, and O. Schütze, **"Rapidly Handling Constrained Multi-objective Optimization Problems with Hypervolume Gradient Subspace Approximation,"** *IEEE Transactions on Evolutionary Computation*, accepted, 2026.
 <!-- TODO: add DOI and final author list when available -->
 
 HVGSA is a gradient-free local search for (constrained) multi-objective optimization. It approximates the hypervolume gradient in a subspace spanned by neighboring solutions and steps along it, requiring only function evaluations — no analytical gradients. The method plugs into any $(\mu+\mu)$ MOEA; this repository provides integrations with NSGA-II (the primary algorithm, **NSGA-II-HVGSA**), ICMA, and CMOEA-CD.
